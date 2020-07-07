@@ -1,2 +1,0 @@
-print ("aditi")
-print ("Github")
